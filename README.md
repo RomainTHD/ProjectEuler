@@ -1,2 +1,2 @@
 # ProjectEuler
-Projet Euler
+Projet Euler, en plein de langages
