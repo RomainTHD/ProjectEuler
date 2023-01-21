@@ -2,3 +2,6 @@
 */cmake-build-debug/
 */CMakeLists.txt
 .idea/
+
+**/target
+**/*.lock
